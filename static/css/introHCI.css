@@ -34,6 +34,10 @@ p{
      background: none;
 }
 
+.jumbotron p.active {
+     color: #1f6ddd;
+}
+
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
